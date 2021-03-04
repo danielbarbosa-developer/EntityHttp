@@ -5,6 +5,8 @@
     <PackageId>EntityHttp.Json</PackageId>
     <Version>1.0.0</Version>
     <Authors>Daniel_Barbosa</Authors>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <DocumentationFile>bin\EntityHttp.Json.XML</DocumentationFile>
   </PropertyGroup>
 
 </Project>
